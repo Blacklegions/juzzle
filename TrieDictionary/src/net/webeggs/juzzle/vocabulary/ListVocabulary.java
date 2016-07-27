@@ -23,7 +23,7 @@ public class ListVocabulary implements Vocabulary {
 	}
 	
 	/**
-	 * Constructor that adds alle the words and then sorts the underlying list
+	 * Constructor that adds all the words and then sorts the underlying list
 	 * @param words
 	 */
 	public ListVocabulary(Collection<String> words) {
